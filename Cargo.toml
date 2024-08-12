@@ -1,0 +1,8 @@
+[package]
+name = "gtk-window"
+version = "0.1.0"
+authors = ["Johannes <johannes.kreutle111@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+gtk4 = "0.9.0"
